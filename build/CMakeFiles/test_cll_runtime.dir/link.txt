@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_cll_runtime.dir/tests/test_cll_runtime.cpp.o -o test_cll_runtime  libfmx_gsi.a 

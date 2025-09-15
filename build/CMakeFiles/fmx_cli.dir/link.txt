@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/fmx_cli.dir/cli/fmx.cpp.o -o fmx_cli  libfmx_gsi.a libfmx_geom.a libfmx_solver.a libfmx_atm.a libfmx_gsi.a libfmx_geom.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a libnrlmsis2_local.a libhwm14_local.a -lgfortran -lquadmath 

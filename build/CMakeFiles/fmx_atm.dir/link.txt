@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfmx_atm.a CMakeFiles/fmx_atm.dir/atm/StubAtmosphere.cpp.o CMakeFiles/fmx_atm.dir/atm/NRLMSIS2.cpp.o CMakeFiles/fmx_atm.dir/atm/HWM14.cpp.o
+/usr/bin/ranlib libfmx_atm.a

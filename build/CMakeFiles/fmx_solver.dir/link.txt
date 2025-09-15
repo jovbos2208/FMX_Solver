@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfmx_solver.a CMakeFiles/fmx_solver.dir/solver/PanelSolver.cpp.o CMakeFiles/fmx_solver.dir/solver/RegimeAdapter.cpp.o
+/usr/bin/ranlib libfmx_solver.a

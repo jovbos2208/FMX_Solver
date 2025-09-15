@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/gen_gsi_table.dir/tools/gen_gsi_table.cpp.o -o gen_gsi_table  libfmx_gsi.a 

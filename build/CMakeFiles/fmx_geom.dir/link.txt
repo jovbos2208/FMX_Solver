@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfmx_geom.a CMakeFiles/fmx_geom.dir/geom/Mesh.cpp.o CMakeFiles/fmx_geom.dir/geom/BVH.cpp.o
+/usr/bin/ranlib libfmx_geom.a

@@ -1,0 +1,9 @@
+sentman_basic 12 0.000203487
+occlusion_basic 12 0.000204447
+validation_trends 10 0.000259883
+torque_plate_offset 4 0.00065694
+cube_symmetry_drag 2 0.0014971
+cr313_reference 2 0.00142858
+cll_runtime_basic 2 0.00120868
+cd_cube_dsmc_check 5 0.000610848
+---

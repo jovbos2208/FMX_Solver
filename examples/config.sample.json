@@ -1,0 +1,20 @@
+{
+  "geometry": "examples/plate.stl",
+  "cg": [0.0, 0.0, 0.0],
+  "materials": {
+    "default": {"alpha_E": 1.0, "alpha_n": 1.0, "alpha_t": 1.0, "Tw_K": 300.0}
+  },
+  "atmosphere": {
+    "model": "NRLMSIS2+HWM14",
+    "indices": {
+      "F10_7": 120.0,
+      "F10_7A": 120.0,
+      "Kp": 3,
+      "Ap": [15, 27, 27, 27, 27, 27, 27]
+    }
+  },
+  "state": {"alt_km": 400.0, "lat_deg": 10.0, "lon_deg": 20.0, "utc": "2025-09-12T12:00:00Z",
+            "V_sat_mps": [7500.0, 0.0, 0.0]},
+  "gsi": {"model": "Sentman"},
+  "solver": {"occlusion": "bvh", "threads": "auto"}
+}

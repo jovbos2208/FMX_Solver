@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_cd_cube_dsmc.dir/tests/test_cd_cube_dsmc.cpp.o -o test_cd_cube_dsmc  libfmx_geom.a libfmx_solver.a libfmx_atm.a libfmx_geom.a libfmx_gsi.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a libnrlmsis2_local.a libhwm14_local.a -lgfortran -lquadmath 

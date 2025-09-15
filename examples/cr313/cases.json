@@ -1,0 +1,31 @@
+[
+  {
+    "validate": "plate",
+    "theta_deg": 0.0,
+    "cg": [0.0, 0.0, 0.0],
+    "materials": { "default": {"alpha_E": 1.0, "Tw_K": 300.0} },
+    "atmosphere": { "model": "Stub", "indices": {"F10_7": 120.0, "Kp": 3} },
+    "state": {"alt_km": 400.0, "lat_deg": 0.0, "lon_deg": 0.0, "utc": "2025-09-12T12:00:00Z", "V_sat_mps": [7500.0, 0.0, 0.0]},
+    "F_exp": [-0.00111008, 0.0, 0.0],
+    "M_exp": [0.0, 0.0, 0.0],
+    "tol": 0.05
+  },
+  {
+    "validate": "plate",
+    "theta_deg": 30.0,
+    "cg": [0.0, 0.0, 0.0],
+    "materials": { "default": {"alpha_E": 1.0, "Tw_K": 300.0} },
+    "atmosphere": { "model": "Stub", "indices": {"F10_7": 120.0, "Kp": 3} },
+    "state": {"alt_km": 400.0, "lat_deg": 0.0, "lon_deg": 0.0, "utc": "2025-09-12T12:00:00Z", "V_sat_mps": [7500.0, 0.0, 0.0]},
+    "tol": 0.05
+  },
+  {
+    "validate": "plate",
+    "theta_deg": 60.0,
+    "cg": [0.0, 0.0, 0.0],
+    "materials": { "default": {"alpha_E": 1.0, "Tw_K": 300.0} },
+    "atmosphere": { "model": "Stub", "indices": {"F10_7": 120.0, "Kp": 3} },
+    "state": {"alt_km": 400.0, "lat_deg": 0.0, "lon_deg": 0.0, "utc": "2025-09-12T12:00:00Z", "V_sat_mps": [7500.0, 0.0, 0.0]},
+    "tol": 0.05
+  }
+]

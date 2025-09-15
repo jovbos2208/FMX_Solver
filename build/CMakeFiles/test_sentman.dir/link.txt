@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test_sentman.dir/tests/test_sentman.cpp.o -o test_sentman  libfmx_gsi.a 

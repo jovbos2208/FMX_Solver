@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhwm14_local.a CMakeFiles/hwm14_local.dir/atm/models/hwm14/src/hwm14.f90.o CMakeFiles/hwm14_local.dir/atm/models/hwm14/src/hwm_interface.f90.o CMakeFiles/hwm14_local.dir/atm/wrappers/hwm14_cwrap.f90.o
+/usr/bin/ranlib libhwm14_local.a

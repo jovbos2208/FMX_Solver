@@ -1,0 +1,19 @@
+Start testing: Sep 15 16:44 CEST
+----------------------------------------------------------
+8/8 Testing: cd_cube_dsmc_check
+8/8 Test: cd_cube_dsmc_check
+Command: "/home/jovan/Software/FMC_Solver/build/test_cd_cube_dsmc"
+Directory: /home/jovan/Software/FMC_Solver/build
+"cd_cube_dsmc_check" start time: Sep 15 16:44 CEST
+Output:
+----------------------------------------------------------
+[cd_cube_dsmc] database_200km.csv not found or row missing; skipping test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"cd_cube_dsmc_check" end time: Sep 15 16:44 CEST
+"cd_cube_dsmc_check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 16:44 CEST

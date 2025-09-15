@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfmx_gsi.a CMakeFiles/fmx_gsi.dir/gsi/Sentman.cpp.o CMakeFiles/fmx_gsi.dir/gsi/CLL.cpp.o CMakeFiles/fmx_gsi.dir/gsi/KernelSet.cpp.o CMakeFiles/fmx_gsi.dir/gsi/CLLRuntime.cpp.o
+/usr/bin/ranlib libfmx_gsi.a
